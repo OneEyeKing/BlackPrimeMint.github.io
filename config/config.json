@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB71258FB130c56e610eCaD7B63B0ADEdD4fF940C",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb71258fb130c56e610ecad7b63b0adedd4ff940c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Black Prime",
+  "SYMBOL": "Black Prime",
+  "MAX_SUPPLY": 55,
+  "WEI_COST": 50000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 425000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/black-prime",
+  "SHOW_BACKGROUND": true
+}
